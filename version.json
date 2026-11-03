@@ -1,4 +1,4 @@
 {
-  "version": "1.0.0",
-  "notes": "First release: live quotes for A-shares, HK and US stocks, multi-currency wallet (start with USD 2000), simulated buy/sell practice, local saves."
+  "version": "1.1",
+  "notes": "Pocket Trader 1.1: fixed the exchange-rate loading hang (multi-source FX with timeouts and local caching, falls back to the last known rate). Download the new APK from the v1.1 release and install it over 1.0.0 - your game data carries over."
 }
