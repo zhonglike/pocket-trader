@@ -1,4 +1,6 @@
 {
-  "version": "1.1",
-  "notes": "Pocket Trader 1.1: fixed the exchange-rate loading hang (multi-source FX with timeouts and local caching, falls back to the last known rate). Download the new APK from the v1.1 release and install it over 1.0.0 - your game data carries over."
+  "version": "1.2",
+  "apk_url": "https://github.com/zhonglike/pocket-trader/releases/download/v1.2/PocketTrader-1.2.apk",
+  "win_url": "https://github.com/zhonglike/pocket-trader/releases/download/v1.2/PocketTrader-Portable-1.2.exe",
+  "notes": "Pocket Trader 1.2: in-app self-download updates - the app downloads the update itself with a progress bar and a one-tap install, no more trips to the GitHub page. Includes the 1.1 exchange-rate loading fix."
 }
